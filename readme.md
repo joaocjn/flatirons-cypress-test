@@ -52,7 +52,7 @@ Each test suite iterates over two viewport types: **desktop** and **mobile**, us
 2. Install dependencies:
 
     ```bash
-    npm install
+    yarn install
     ```
 
 3. Create a `cypress.env.json` file using the structure from `env.example`:
