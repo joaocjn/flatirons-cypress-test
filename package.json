@@ -1,0 +1,16 @@
+{
+    "name": "flatirons-cypress",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "cypress": "^12.17.3"
+    },
+    "scripts": {
+        "cypress:open": "cypress open",
+        "cypress:run": "cypress run"
+    },
+    "devDependencies": {
+        "@faker-js/faker": "7.6.0"
+    }
+}
